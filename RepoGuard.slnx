@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="RepoGuard.Core/RepoGuard.Core.csproj" />
+  <Project Path="RepoGuard.Logic/RepoGuard.Logic.csproj" />
+  <Project Path="RepoGuard/RepoGuard.csproj" />
+</Solution>
