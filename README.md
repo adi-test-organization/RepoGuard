@@ -7,6 +7,10 @@ To start the application locally using the CLI:
 dotnet build
 dotnet run
 ```
+
+## Debugging
+In order to debug the project, open the solution, set RepoGuard as startup project and then run it with F5.
+
 ## Tunneling
 For local webhook testing, I personally used Cloudflare Tunnel.  
 Use port 5193:
